@@ -133,11 +133,21 @@
     "id": "section",
     "fields": [
       {
-        "component": "text-input",
+        "component": "select",
         "name": "style",
         "value": "",
-        "label": "Style",
-        "valueType": "string"
+        "label": "style",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Left Image",
+            "value": "left-image"
+          },
+          {
+            "name": "Overlay Text",
+            "value": "overlay-text"
+          }
+        ]
       }
     ]
   },
