@@ -140,7 +140,7 @@
         "valueType": "string",
         "options": [
           {
-            "name": " ",
+            "name": "Default",
             "value": " "
           },
           {
