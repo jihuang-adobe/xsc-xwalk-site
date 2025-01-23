@@ -223,6 +223,18 @@
     ]
   },
   {
+    "id": "featured-article-left-image",
+    "fields": [
+      {
+        "component": "text-input",
+        "name": "reference",
+        "value": "",
+        "label": "Reference",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "blockquote",
     "fields": [
       {
