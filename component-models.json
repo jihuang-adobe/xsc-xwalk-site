@@ -135,13 +135,13 @@
       {
         "component": "select",
         "name": "style",
-        "value": "",
+        "value": " ",
         "label": "style",
         "valueType": "string",
         "options": [
           {
-            "name": "",
-            "value": ""
+            "name": " ",
+            "value": " "
           },
           {
             "name": "Left Image",
