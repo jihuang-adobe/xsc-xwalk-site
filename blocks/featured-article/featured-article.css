@@ -9,6 +9,17 @@
     margin-bottom: 1em;
 }
 
+.section.left-image .featured-article,
+.featured-article.left-image {
+    flex-direction: row;
+}
+
+.section.overlay-text .featured-article,
+.featured-article.overlay-text {
+    flex-direction: column;
+    position: relative;
+}
+
 .featured-article .image {
     display: flex;
     -webkit-box-orient: vertical;
@@ -29,6 +40,13 @@
     width: 100%;
     height: 100%;
     border-radius: 0 4% 4% 0;
+}
+
+.section.overlay-text .featured-article .text,
+.featured-article.overlay-text .text {
+    position: absolute;
+    bottom: 0;
+    opacity: 0.7;
 }
 
 .featured-article .text {
