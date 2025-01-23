@@ -210,7 +210,7 @@
         },    
         {
           "title": "Featured Article (Left Image)",
-          "id": "featured-article",
+          "id": "featured-article-left-image",
           "plugins": {
             "xwalk": {
               "page": {
