@@ -140,6 +140,10 @@
         "valueType": "string",
         "options": [
           {
+            "name": "",
+            "value": ""
+          },
+          {
             "name": "Left Image",
             "value": "left-image"
           },
